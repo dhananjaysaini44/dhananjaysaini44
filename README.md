@@ -1,5 +1,5 @@
 # 💫 About Me:
-C | C++ | Flutter | Python | Dart | Kotlin | Html | CSS
+C | C++ | Flutter | Python | Dart | Java | Kotlin | Html | CSS
 
 
 (https://www.codechef.com/users/dhananjay_44)
